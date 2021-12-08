@@ -65,4 +65,27 @@ const deleteFono = async (req, res) => {
   res.status(StatusCodes.OK).json({ fono });
 };
 
-module.exports = { getAllFono, getOneFono, createFono, updateFono, deleteFono };
+//DELETE all.
+const deleteAll = async (req, res) => {
+  const { verif_code } = req.body;
+
+  if (verif_code !== "Acepto borrar todos los datos.") {
+    throw new BadRequestError(
+      "Se debe ingresar el texto para autorizar la solicitud."
+    );
+  }
+
+  const deletedCount = await FonogramaModel.deleteMany({});
+  res
+    .status(StatusCodes.OK)
+    .json(`Se borraron ${deletedCount.deletedCount} fonogramas.`);
+};
+
+module.exports = {
+  getAllFono,
+  getOneFono,
+  createFono,
+  updateFono,
+  deleteFono,
+  deleteAll,
+};
