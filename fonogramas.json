@@ -1,0 +1,1192 @@
+[
+  {
+    "artista": "SEÑOR NARANJO",
+    "cod_proy": "SN001",
+    "album": "Una Mañana en Silencio",
+    "nombre": "Astillas",
+    "categoria": "EP",
+    "sayco": "true",
+    "acinpro": "false",
+    "imagen": "https://picsum.photos/200/300?random=1"
+  },
+  {
+    "artista": "SEÑOR NARANJO",
+    "cod_proy": "SN002",
+    "album": "Una Mañana en Silencio",
+    "nombre": "Una Mañana en Silencio",
+    "categoria": "EP",
+    "sayco": "true",
+    "acinpro": "false",
+    "imagen": "https://picsum.photos/200/300?random=2"
+  },
+  {
+    "artista": "SEÑOR NARANJO",
+    "cod_proy": "SN003",
+    "album": "Una Mañana en Silencio",
+    "nombre": "Qué Seguirá",
+    "categoria": "EP",
+    "sayco": "true",
+    "acinpro": "false",
+    "imagen": "https://picsum.photos/200/300?random=3"
+  },
+  {
+    "artista": "SEÑOR NARANJO",
+    "cod_proy": "SN004",
+    "album": "Una Mañana en Silencio",
+    "nombre": "De Tanto Andar",
+    "categoria": "EP",
+    "sayco": "true",
+    "acinpro": "false",
+    "imagen": "https://picsum.photos/200/300?random=4"
+  },
+  {
+    "artista": "SEÑOR NARANJO",
+    "cod_proy": "SN005",
+    "album": "Una Mañana en Silencio",
+    "nombre": "Las Llaves del Huerto",
+    "categoria": "EP",
+    "sayco": "true",
+    "acinpro": "false",
+    "imagen": "https://picsum.photos/200/300?random=5"
+  },
+  {
+    "artista": "SEÑOR NARANJO",
+    "cod_proy": "SN006",
+    "album": "Una Mañana en Silencio",
+    "nombre": "Precipitarse o Esperar",
+    "categoria": "EP",
+    "sayco": "true",
+    "acinpro": "false",
+    "imagen": "https://picsum.photos/200/300?random=6"
+  },
+  {
+    "artista": "SEÑOR NARANJO",
+    "cod_proy": "SN007",
+    "album": "Puede Cambiar",
+    "nombre": "San Francisco",
+    "categoria": "EP",
+    "sayco": "true",
+    "acinpro": "false",
+    "imagen": "https://picsum.photos/200/300?random=7"
+  },
+  {
+    "artista": "SEÑOR NARANJO",
+    "cod_proy": "SN008",
+    "album": "Puede Cambiar",
+    "nombre": "Las Puertas",
+    "categoria": "EP",
+    "sayco": "true",
+    "acinpro": "false",
+    "imagen": "https://picsum.photos/200/300?random=8"
+  },
+  {
+    "artista": "SEÑOR NARANJO",
+    "cod_proy": "SN009",
+    "album": "Puede Cambiar",
+    "nombre": "Puede Cambiar",
+    "categoria": "EP",
+    "sayco": "true",
+    "acinpro": "false",
+    "imagen": "https://picsum.photos/200/300?random=9"
+  },
+  {
+    "artista": "SEÑOR NARANJO",
+    "cod_proy": "SN010",
+    "album": "Puede Cambiar",
+    "nombre": "Un Espacio para Pensar",
+    "categoria": "EP",
+    "sayco": "true",
+    "acinpro": "false",
+    "imagen": "https://picsum.photos/200/300?random=10"
+  },
+  {
+    "artista": "SEÑOR NARANJO",
+    "cod_proy": "SN011",
+    "album": "Puede Cambiar",
+    "nombre": "Invierno",
+    "categoria": "EP",
+    "sayco": "true",
+    "acinpro": "false",
+    "imagen": "https://picsum.photos/200/300?random=11"
+  },
+  {
+    "artista": "SEÑOR NARANJO",
+    "cod_proy": "SN012",
+    "album": "Puede Cambiar",
+    "nombre": "Fisura",
+    "categoria": "EP",
+    "sayco": "true",
+    "acinpro": "false",
+    "imagen": "https://picsum.photos/200/300?random=12"
+  },
+  {
+    "artista": "SEÑOR NARANJO",
+    "cod_proy": "SN013",
+    "album": "EL Mundo Sólo Sabe Estar Allí",
+    "nombre": "Sin Mérito",
+    "categoria": "Álbum",
+    "sayco": "true",
+    "acinpro": "false",
+    "imagen": "https://picsum.photos/200/300?random=13"
+  },
+  {
+    "artista": "SEÑOR NARANJO",
+    "cod_proy": "SN014",
+    "album": "EL Mundo Sólo Sabe Estar Allí",
+    "nombre": "No Te Importa",
+    "categoria": "Álbum",
+    "sayco": "true",
+    "acinpro": "false",
+    "imagen": "https://picsum.photos/200/300?random=14"
+  },
+  {
+    "artista": "SEÑOR NARANJO",
+    "cod_proy": "SN015",
+    "album": "EL Mundo Sólo Sabe Estar Allí",
+    "nombre": "Nepantla",
+    "categoria": "Álbum",
+    "sayco": "true",
+    "acinpro": "false",
+    "imagen": "https://picsum.photos/200/300?random=15"
+  },
+  {
+    "artista": "SEÑOR NARANJO",
+    "cod_proy": "SN016",
+    "album": "EL Mundo Sólo Sabe Estar Allí",
+    "nombre": "Mirar al Cielo",
+    "categoria": "Álbum",
+    "sayco": "true",
+    "acinpro": "false",
+    "imagen": "https://picsum.photos/200/300?random=16"
+  },
+  {
+    "artista": "SEÑOR NARANJO",
+    "cod_proy": "SN017",
+    "album": "EL Mundo Sólo Sabe Estar Allí",
+    "nombre": "Sobrevolando",
+    "categoria": "Álbum",
+    "sayco": "true",
+    "acinpro": "false",
+    "imagen": "https://picsum.photos/200/300?random=17"
+  },
+  {
+    "artista": "SEÑOR NARANJO",
+    "cod_proy": "SN018",
+    "album": "EL Mundo Sólo Sabe Estar Allí",
+    "nombre": "Los Ladrones Ideológicos",
+    "categoria": "Álbum",
+    "sayco": "true",
+    "acinpro": "false",
+    "imagen": "https://picsum.photos/200/300?random=18"
+  },
+  {
+    "artista": "SEÑOR NARANJO",
+    "cod_proy": "SN019",
+    "album": "EL Mundo Sólo Sabe Estar Allí",
+    "nombre": "El Mundo Sólo Sabe Estar Allí",
+    "categoria": "Álbum",
+    "sayco": "true",
+    "acinpro": "false",
+    "imagen": "https://picsum.photos/200/300?random=19"
+  },
+  {
+    "artista": "SEÑOR NARANJO",
+    "cod_proy": "SN020",
+    "album": "Perdido en Libido",
+    "nombre": "Perdido en Libido",
+    "categoria": "Álbum",
+    "sayco": "true",
+    "acinpro": "false",
+    "imagen": "https://picsum.photos/200/300?random=20"
+  },
+  {
+    "artista": "SEÑOR NARANJO",
+    "cod_proy": "SN021",
+    "album": "Perdido en Libido",
+    "nombre": "La Costa Azul",
+    "categoria": "Álbum",
+    "sayco": "true",
+    "acinpro": "false",
+    "imagen": "https://picsum.photos/200/300?random=21"
+  },
+  {
+    "artista": "SEÑOR NARANJO",
+    "cod_proy": "SN022",
+    "album": "Perdido en Libido",
+    "nombre": "Fue Extraño Saber",
+    "categoria": "Álbum",
+    "sayco": "true",
+    "acinpro": "false",
+    "imagen": "https://picsum.photos/200/300?random=22"
+  },
+  {
+    "artista": "SEÑOR NARANJO",
+    "cod_proy": "SN023",
+    "album": "Perdido en Libido",
+    "nombre": "La Nihilista",
+    "categoria": "Álbum",
+    "sayco": "true",
+    "acinpro": "false",
+    "imagen": "https://picsum.photos/200/300?random=23"
+  },
+  {
+    "artista": "SEÑOR NARANJO",
+    "cod_proy": "SN024",
+    "album": "Perdido en Libido",
+    "nombre": "La Sopa Monista",
+    "categoria": "Álbum",
+    "sayco": "true",
+    "acinpro": "false",
+    "imagen": "https://picsum.photos/200/300?random=24"
+  },
+  {
+    "artista": "SEÑOR NARANJO",
+    "cod_proy": "SN025",
+    "album": "Perdido en Libido",
+    "nombre": "La Máquina de Seguir Vivo",
+    "categoria": "Álbum",
+    "sayco": "true",
+    "acinpro": "false",
+    "imagen": "https://picsum.photos/200/300?random=25"
+  },
+  {
+    "artista": "SEÑOR NARANJO",
+    "cod_proy": "SN026",
+    "album": "Perdido en Libido",
+    "nombre": "El Líder",
+    "categoria": "Álbum",
+    "sayco": "true",
+    "acinpro": "false",
+    "imagen": "https://picsum.photos/200/300?random=26"
+  },
+  {
+    "artista": "SEÑOR NARANJO",
+    "cod_proy": "SN027",
+    "album": "Perdido en Libido",
+    "nombre": "Las Flores al Viento",
+    "categoria": "Álbum",
+    "sayco": "true",
+    "acinpro": "false",
+    "imagen": "https://picsum.photos/200/300?random=27"
+  },
+  {
+    "artista": "SEÑOR NARANJO",
+    "cod_proy": "SN028",
+    "album": "Perdido en Libido",
+    "nombre": "Testigo",
+    "categoria": "Álbum",
+    "sayco": "true",
+    "acinpro": "false",
+    "imagen": "https://picsum.photos/200/300?random=28"
+  },
+  {
+    "artista": "SEÑOR NARANJO",
+    "cod_proy": "SN029",
+    "album": "Choose Your Fight",
+    "nombre": "Choose Your Fight",
+    "categoria": "Single",
+    "sayco": "true",
+    "acinpro": "false",
+    "imagen": "https://picsum.photos/200/300?random=29"
+  },
+  {
+    "artista": "MARGARITA SIEMPRE VIVA",
+    "cod_proy": "MS001",
+    "album": "Lentas Nubes de Fuego",
+    "nombre": "Lentas Nubes de Fuego",
+    "categoria": "EP",
+    "sayco": "true",
+    "acinpro": "false",
+    "imagen": "https://picsum.photos/200/300?random=30"
+  },
+  {
+    "artista": "YO ME LANZO",
+    "cod_proy": "YML001",
+    "album": "TP01_Al Agua",
+    "nombre": "Todos el Mismo",
+    "categoria": "EP",
+    "sayco": "true",
+    "acinpro": "false",
+    "imagen": "https://picsum.photos/200/300?random=31"
+  },
+  {
+    "artista": "YO ME LANZO",
+    "cod_proy": "YML002",
+    "album": "TP01_Al Agua",
+    "nombre": "Cauca",
+    "categoria": "EP",
+    "sayco": "true",
+    "acinpro": "false",
+    "imagen": "https://picsum.photos/200/300?random=32"
+  },
+  {
+    "artista": "YO ME LANZO",
+    "cod_proy": "YML003",
+    "album": "TP01_Al Agua",
+    "nombre": "Al Agua",
+    "categoria": "EP",
+    "sayco": "true",
+    "acinpro": "false",
+    "imagen": "https://picsum.photos/200/300?random=33"
+  },
+  {
+    "artista": "YO ME LANZO",
+    "cod_proy": "YML004",
+    "album": "TP01_Al Agua",
+    "nombre": "Rakashika River",
+    "categoria": "EP",
+    "sayco": "true",
+    "acinpro": "false",
+    "imagen": "https://picsum.photos/200/300?random=34"
+  },
+  {
+    "artista": "YO ME LANZO",
+    "cod_proy": "YML005",
+    "album": "TP01_Al Agua",
+    "nombre": "Sin Embargo Allí Estábamos",
+    "categoria": "EP",
+    "sayco": "true",
+    "acinpro": "false",
+    "imagen": "https://picsum.photos/200/300?random=35"
+  },
+  {
+    "artista": "YO ME LANZO",
+    "cod_proy": "YML006",
+    "album": "TP02_A la Independencia",
+    "nombre": "Garzón (Presidente Eterno)",
+    "categoria": "EP",
+    "sayco": "true",
+    "acinpro": "false",
+    "imagen": "https://picsum.photos/200/300?random=36"
+  },
+  {
+    "artista": "YO ME LANZO",
+    "cod_proy": "YML007",
+    "album": "TP02_A la Independencia",
+    "nombre": "Abad Colorado (Anestesia y Sangría)",
+    "categoria": "EP",
+    "sayco": "true",
+    "acinpro": "false",
+    "imagen": "https://picsum.photos/200/300?random=37"
+  },
+  {
+    "artista": "YO ME LANZO",
+    "cod_proy": "YML008",
+    "album": "TP02_A la Independencia",
+    "nombre": "Gaitán (De Don Mengano a Don Sultano)",
+    "categoria": "EP",
+    "sayco": "true",
+    "acinpro": "false",
+    "imagen": "https://picsum.photos/200/300?random=38"
+  },
+  {
+    "artista": "YO ME LANZO",
+    "cod_proy": "YML009",
+    "album": "TP02_A la Independencia",
+    "nombre": "Galán (Usted no Sabe Quién Soy Yo)",
+    "categoria": "EP",
+    "sayco": "true",
+    "acinpro": "false",
+    "imagen": "https://picsum.photos/200/300?random=39"
+  },
+  {
+    "artista": "YO ME LANZO",
+    "cod_proy": "YML010",
+    "album": "TP03_Al Campo",
+    "nombre": "Wenceslao (Antonio​)​: Ser campesino es un delito",
+    "categoria": "EP",
+    "sayco": "true",
+    "acinpro": "false",
+    "imagen": "https://picsum.photos/200/300?random=40"
+  },
+  {
+    "artista": "YO ME LANZO",
+    "cod_proy": "YML011",
+    "album": "TP03_Al Campo",
+    "nombre": "Consorcia de Jesús. En trozos por la tierra",
+    "categoria": "EP",
+    "sayco": "true",
+    "acinpro": "false",
+    "imagen": "https://picsum.photos/200/300?random=41"
+  },
+  {
+    "artista": "YO ME LANZO",
+    "cod_proy": "YML012",
+    "album": "TP03_Al Campo",
+    "nombre": "Barbara Green: Del campo a la invasión",
+    "categoria": "EP",
+    "sayco": "true",
+    "acinpro": "false",
+    "imagen": "https://picsum.photos/200/300?random=42"
+  },
+  {
+    "artista": "YO ME LANZO",
+    "cod_proy": "YML013",
+    "album": "TP03_Al Campo",
+    "nombre": "Andrónico Febril ¿Para allá vamos!",
+    "categoria": "EP",
+    "sayco": "true",
+    "acinpro": "false",
+    "imagen": "https://picsum.photos/200/300?random=43"
+  },
+  {
+    "artista": "YO ME LANZO",
+    "cod_proy": "YML014",
+    "album": "TP04_Del Amor al Odio",
+    "nombre": "Hate",
+    "categoria": "EP",
+    "sayco": "true",
+    "acinpro": "false",
+    "imagen": "https://picsum.photos/200/300?random=44"
+  },
+  {
+    "artista": "YO ME LANZO",
+    "cod_proy": "YML015",
+    "album": "TP04_Del Amor al Odio",
+    "nombre": "Behind You, Inside You",
+    "categoria": "EP",
+    "sayco": "true",
+    "acinpro": "false",
+    "imagen": "https://picsum.photos/200/300?random=45"
+  },
+  {
+    "artista": "YO ME LANZO",
+    "cod_proy": "YML016",
+    "album": "TP04_Del Amor al Odio",
+    "nombre": "Hominido",
+    "categoria": "EP",
+    "sayco": "true",
+    "acinpro": "false",
+    "imagen": "https://picsum.photos/200/300?random=46"
+  },
+  {
+    "artista": "YO ME LANZO",
+    "cod_proy": "YML017",
+    "album": "TP04_Del Amor al Odio",
+    "nombre": "Love",
+    "categoria": "EP",
+    "sayco": "true",
+    "acinpro": "false",
+    "imagen": "https://picsum.photos/200/300?random=47"
+  },
+  {
+    "artista": "YO ME LANZO",
+    "cod_proy": "YML018",
+    "album": "TP04_Del Amor al Odio",
+    "nombre": "Reality Imitates Fiction",
+    "categoria": "EP",
+    "sayco": "true",
+    "acinpro": "false",
+    "imagen": "https://picsum.photos/200/300?random=48"
+  },
+  {
+    "artista": "YO ME LANZO",
+    "cod_proy": "YML019",
+    "album": "TP05_Al Otro",
+    "nombre": "No habitas en Soledad",
+    "categoria": "EP",
+    "sayco": "true",
+    "acinpro": "false",
+    "imagen": "https://picsum.photos/200/300?random=49"
+  },
+  {
+    "artista": "YO ME LANZO",
+    "cod_proy": "YML020",
+    "album": "TP05_Al Otro",
+    "nombre": "Te envidio, a la vez me aburres",
+    "categoria": "EP",
+    "sayco": "true",
+    "acinpro": "false",
+    "imagen": "https://picsum.photos/200/300?random=50"
+  },
+  {
+    "artista": "YO ME LANZO",
+    "cod_proy": "YML021",
+    "album": "TP05_Al Otro",
+    "nombre": "No soy mas que un encuentro",
+    "categoria": "EP",
+    "sayco": "true",
+    "acinpro": "false",
+    "imagen": "https://picsum.photos/200/300?random=51"
+  },
+  {
+    "artista": "YO ME LANZO",
+    "cod_proy": "YML022",
+    "album": "TP05_Al Otro",
+    "nombre": "Donde el tiempo no está",
+    "categoria": "EP",
+    "sayco": "true",
+    "acinpro": "false",
+    "imagen": "https://picsum.photos/200/300?random=52"
+  },
+  {
+    "artista": "YO ME LANZO",
+    "cod_proy": "YML023",
+    "album": "TP06_A La Mierda",
+    "nombre": "Perro Cucho",
+    "categoria": "EP",
+    "sayco": "true",
+    "acinpro": "false",
+    "imagen": "https://picsum.photos/200/300?random=53"
+  },
+  {
+    "artista": "YO ME LANZO",
+    "cod_proy": "YML024",
+    "album": "TP06_A La Mierda",
+    "nombre": "Patas de Rata",
+    "categoria": "EP",
+    "sayco": "true",
+    "acinpro": "false",
+    "imagen": "https://picsum.photos/200/300?random=54"
+  },
+  {
+    "artista": "YO ME LANZO",
+    "cod_proy": "YML025",
+    "album": "TP06_A La Mierda",
+    "nombre": "Balada Ficción",
+    "categoria": "EP",
+    "sayco": "true",
+    "acinpro": "false",
+    "imagen": "https://picsum.photos/200/300?random=55"
+  },
+  {
+    "artista": "YO ME LANZO",
+    "cod_proy": "YML026",
+    "album": "TP06_A La Mierda",
+    "nombre": "Bajo el Sol",
+    "categoria": "EP",
+    "sayco": "true",
+    "acinpro": "false",
+    "imagen": "https://picsum.photos/200/300?random=56"
+  },
+  {
+    "artista": "YO ME LANZO",
+    "cod_proy": "YML028",
+    "album": "TP07_Entre Basiliscos Y Dragones",
+    "nombre": "El Juicio del Apocalipcio",
+    "categoria": "EP",
+    "sayco": "true",
+    "acinpro": "false",
+    "imagen": "https://picsum.photos/200/300?random=57"
+  },
+  {
+    "artista": "YO ME LANZO",
+    "cod_proy": "YML029",
+    "album": "TP07_Entre Basiliscos Y Dragones",
+    "nombre": "La Estalactita Se Sumerge",
+    "categoria": "EP",
+    "sayco": "true",
+    "acinpro": "false",
+    "imagen": "https://picsum.photos/200/300?random=58"
+  },
+  {
+    "artista": "YO ME LANZO",
+    "cod_proy": "YML030",
+    "album": "TP07_Entre Basiliscos Y Dragones",
+    "nombre": "Dentro y Fuera del Dragón",
+    "categoria": "EP",
+    "sayco": "true",
+    "acinpro": "false",
+    "imagen": "https://picsum.photos/200/300?random=59"
+  },
+  {
+    "artista": "YO ME LANZO",
+    "cod_proy": "YML031",
+    "album": "TP07_Entre Basiliscos Y Dragones",
+    "nombre": "De Camino al Espejo",
+    "categoria": "EP",
+    "sayco": "true",
+    "acinpro": "false",
+    "imagen": "https://picsum.photos/200/300?random=60"
+  },
+  {
+    "artista": "YO ME LANZO",
+    "cod_proy": "YML032",
+    "album": "TP07_Entre Basiliscos Y Dragones",
+    "nombre": "El Basilisco en el Espejo",
+    "categoria": "EP",
+    "sayco": "true",
+    "acinpro": "false",
+    "imagen": "https://picsum.photos/200/300?random=61"
+  },
+  {
+    "artista": "YO ME LANZO",
+    "cod_proy": "YML033",
+    "album": "Tp08_Al Dub",
+    "nombre": "Nayhabingui: Meditación Popular (Intro)",
+    "categoria": "EP",
+    "sayco": "true",
+    "acinpro": "false",
+    "imagen": "https://picsum.photos/200/300?random=62"
+  },
+  {
+    "artista": "YO ME LANZO",
+    "cod_proy": "YML034",
+    "album": "Tp08_Al Dub",
+    "nombre": "Pandemia Dub",
+    "categoria": "EP",
+    "sayco": "true",
+    "acinpro": "false",
+    "imagen": "https://picsum.photos/200/300?random=63"
+  },
+  {
+    "artista": "YO ME LANZO",
+    "cod_proy": "YML035",
+    "album": "Tp08_Al Dub",
+    "nombre": "Deshielo Dub",
+    "categoria": "EP",
+    "sayco": "true",
+    "acinpro": "false",
+    "imagen": "https://picsum.photos/200/300?random=64"
+  },
+  {
+    "artista": "YO ME LANZO",
+    "cod_proy": "YML036",
+    "album": "Tp08_Al Dub",
+    "nombre": "Solidaridub",
+    "categoria": "EP",
+    "sayco": "true",
+    "acinpro": "false",
+    "imagen": "https://picsum.photos/200/300?random=65"
+  },
+  {
+    "artista": "YO ME LANZO",
+    "cod_proy": "YML037",
+    "album": "Tp08_Al Dub",
+    "nombre": "Quédate Dub",
+    "categoria": "EP",
+    "sayco": "true",
+    "acinpro": "false",
+    "imagen": "https://picsum.photos/200/300?random=66"
+  },
+  {
+    "artista": "YO ME LANZO",
+    "cod_proy": "YML038",
+    "album": "Tp09_Ceremonias de Interior",
+    "nombre": "Solos Sin Dios",
+    "categoria": "EP",
+    "sayco": "true",
+    "acinpro": "false",
+    "imagen": "https://picsum.photos/200/300?random=67"
+  },
+  {
+    "artista": "YO ME LANZO",
+    "cod_proy": "YML039",
+    "album": "Tp09_Ceremonias de Interior",
+    "nombre": "No sé qué Pensar",
+    "categoria": "EP",
+    "sayco": "true",
+    "acinpro": "false",
+    "imagen": "https://picsum.photos/200/300?random=68"
+  },
+  {
+    "artista": "YO ME LANZO",
+    "cod_proy": "YML040",
+    "album": "Tp09_Ceremonias de Interior",
+    "nombre": "No Está Libre de Errores",
+    "categoria": "EP",
+    "sayco": "true",
+    "acinpro": "false",
+    "imagen": "https://picsum.photos/200/300?random=69"
+  },
+  {
+    "artista": "YO ME LANZO",
+    "cod_proy": "YML041",
+    "album": "Tp09_Ceremonias de Interior",
+    "nombre": "Un Sueño Un Poco Azul",
+    "categoria": "EP",
+    "sayco": "true",
+    "acinpro": "false",
+    "imagen": "https://picsum.photos/200/300?random=70"
+  },
+  {
+    "artista": "YO ME LANZO",
+    "cod_proy": "YML042",
+    "album": "Tp10_Cerca al Placer",
+    "nombre": "Hoy Es Eterno",
+    "categoria": "EP",
+    "sayco": "true",
+    "acinpro": "false",
+    "imagen": "https://picsum.photos/200/300?random=71"
+  },
+  {
+    "artista": "YO ME LANZO",
+    "cod_proy": "YML043",
+    "album": "Tp10_Cerca al Placer",
+    "nombre": "Mis Demonios se Divierten",
+    "categoria": "EP",
+    "sayco": "true",
+    "acinpro": "false",
+    "imagen": "https://picsum.photos/200/300?random=72"
+  },
+  {
+    "artista": "YO ME LANZO",
+    "cod_proy": "YML044",
+    "album": "Tp10_Cerca al Placer",
+    "nombre": "Hoy por Siempre a tus Ojos",
+    "categoria": "EP",
+    "sayco": "true",
+    "acinpro": "false",
+    "imagen": "https://picsum.photos/200/300?random=73"
+  },
+  {
+    "artista": "YO ME LANZO",
+    "cod_proy": "YML045",
+    "album": "Tp10_Cerca al Placer",
+    "nombre": "Que Pase Lento",
+    "categoria": "EP",
+    "sayco": "true",
+    "acinpro": "false",
+    "imagen": "https://picsum.photos/200/300?random=74"
+  },
+  {
+    "artista": "YO ME LANZO",
+    "cod_proy": "YML046",
+    "album": "Tp11_Reflejo",
+    "nombre": "La Misma Sed",
+    "categoria": "EP",
+    "sayco": "true",
+    "acinpro": "false",
+    "imagen": "https://picsum.photos/200/300?random=75"
+  },
+  {
+    "artista": "YO ME LANZO",
+    "cod_proy": "YML047",
+    "album": "Tp11_Reflejo",
+    "nombre": "Como Animales",
+    "categoria": "EP",
+    "sayco": "true",
+    "acinpro": "false",
+    "imagen": "https://picsum.photos/200/300?random=76"
+  },
+  {
+    "artista": "YO ME LANZO",
+    "cod_proy": "YML048",
+    "album": "Tp11_Reflejo",
+    "nombre": "Vaivén",
+    "categoria": "EP",
+    "sayco": "true",
+    "acinpro": "false",
+    "imagen": "https://picsum.photos/200/300?random=77"
+  },
+  {
+    "artista": "YO ME LANZO",
+    "cod_proy": "YML049",
+    "album": "Tp11_Reflejo",
+    "nombre": "Los Tiempos que ya no Están",
+    "categoria": "EP",
+    "sayco": "true",
+    "acinpro": "false",
+    "imagen": "https://picsum.photos/200/300?random=78"
+  },
+  {
+    "artista": "YO ME LANZO",
+    "cod_proy": "YML050",
+    "album": "Tp11_Reflejo",
+    "nombre": "Bailamos Nuestros Muertos",
+    "categoria": "EP",
+    "sayco": "true",
+    "acinpro": "false",
+    "imagen": "https://picsum.photos/200/300?random=79"
+  },
+  {
+    "artista": "YO ME LANZO",
+    "cod_proy": "YML051",
+    "album": "Tp12_En El Palacio de las Sombras",
+    "nombre": "Sombras y Algo Más",
+    "categoria": "EP",
+    "sayco": "true",
+    "acinpro": "false",
+    "imagen": "https://picsum.photos/200/300?random=80"
+  },
+  {
+    "artista": "YO ME LANZO",
+    "cod_proy": "YML052",
+    "album": "Tp12_En El Palacio de las Sombras",
+    "nombre": "Sombra Mgnética",
+    "categoria": "EP",
+    "sayco": "true",
+    "acinpro": "false",
+    "imagen": "https://picsum.photos/200/300?random=81"
+  },
+  {
+    "artista": "YO ME LANZO",
+    "cod_proy": "YML053",
+    "album": "Tp12_En El Palacio de las Sombras",
+    "nombre": "Tema 3",
+    "categoria": "EP",
+    "sayco": "true",
+    "acinpro": "false",
+    "imagen": "https://picsum.photos/200/300?random=82"
+  },
+  {
+    "artista": "YO ME LANZO",
+    "cod_proy": "YML054",
+    "album": "Tp12_En El Palacio de las Sombras",
+    "nombre": "Oda a la Magia Verde",
+    "categoria": "EP",
+    "sayco": "true",
+    "acinpro": "false",
+    "imagen": "https://picsum.photos/200/300?random=83"
+  },
+  {
+    "artista": "YO ME LANZO",
+    "cod_proy": "YML055",
+    "album": "Tp13_Repítelo Cantando Conmigo",
+    "nombre": "Chiquitete",
+    "categoria": "EP",
+    "sayco": "true",
+    "acinpro": "false",
+    "imagen": "https://picsum.photos/200/300?random=84"
+  },
+  {
+    "artista": "YO ME LANZO",
+    "cod_proy": "YML056",
+    "album": "Tp13_Repítelo Cantando Conmigo",
+    "nombre": "El Pueblo Está Indigando",
+    "categoria": "EP",
+    "sayco": "true",
+    "acinpro": "false",
+    "imagen": "https://picsum.photos/200/300?random=85"
+  },
+  {
+    "artista": "YO ME LANZO",
+    "cod_proy": "YML057",
+    "album": "Tp13_Repítelo Cantando Conmigo",
+    "nombre": "Mentira",
+    "categoria": "EP",
+    "sayco": "true",
+    "acinpro": "false",
+    "imagen": "https://picsum.photos/200/300?random=86"
+  },
+  {
+    "artista": "YO ME LANZO",
+    "cod_proy": "YML058",
+    "album": "Tp13_Repítelo Cantando Conmigo",
+    "nombre": "Qué Será de Mi",
+    "categoria": "EP",
+    "sayco": "true",
+    "acinpro": "false",
+    "imagen": "https://picsum.photos/200/300?random=87"
+  },
+  {
+    "artista": "MINEK",
+    "cod_proy": "MK001",
+    "album": "Pasos Lentos",
+    "nombre": "Pasos Lentos",
+    "categoria": "EP",
+    "sayco": "true",
+    "acinpro": "false",
+    "imagen": "https://picsum.photos/200/300?random=88"
+  },
+  {
+    "artista": "MINEK",
+    "cod_proy": "MK002",
+    "album": "Pasos Lentos",
+    "nombre": "Fuera de Este Mundo",
+    "categoria": "EP",
+    "sayco": "true",
+    "acinpro": "false",
+    "imagen": "https://picsum.photos/200/300?random=89"
+  },
+  {
+    "artista": "MINEK",
+    "cod_proy": "MK003",
+    "album": "Pasos Lentos",
+    "nombre": "Puedes Simular",
+    "categoria": "EP",
+    "sayco": "true",
+    "acinpro": "false",
+    "imagen": "https://picsum.photos/200/300?random=90"
+  },
+  {
+    "artista": "MINEK",
+    "cod_proy": "MK004",
+    "album": "Pasos Lentos",
+    "nombre": "Insinuarte Cosas Raras",
+    "categoria": "EP",
+    "sayco": "true",
+    "acinpro": "false",
+    "imagen": "https://picsum.photos/200/300?random=91"
+  },
+  {
+    "artista": "CALAVERA POPULAR",
+    "cod_proy": "CAL001",
+    "album": "Qué Calor",
+    "nombre": "Qué Calor",
+    "categoria": "Single",
+    "sayco": "true",
+    "acinpro": "false",
+    "imagen": "https://picsum.photos/200/300?random=92"
+  },
+  {
+    "artista": "CALAVERA POPULAR",
+    "cod_proy": "CAL002",
+    "album": "Sopetran Tran Tran",
+    "nombre": "Sopetran Tran Tran",
+    "categoria": "Single",
+    "sayco": "true",
+    "acinpro": "false",
+    "imagen": "https://picsum.photos/200/300?random=93"
+  },
+  {
+    "artista": "CALAVERA POPULAR",
+    "cod_proy": "CAL003",
+    "album": "Vente (Mamacita)",
+    "nombre": "Vente (Mamacita)",
+    "categoria": "Single",
+    "sayco": "true",
+    "acinpro": "false",
+    "imagen": "https://picsum.photos/200/300?random=94"
+  },
+  {
+    "artista": "CALAVERA POPULAR",
+    "cod_proy": "CAL004",
+    "album": "Montañero a Lo Moderno",
+    "nombre": "Montañero Soy",
+    "categoria": "Álbum",
+    "sayco": "true",
+    "acinpro": "false",
+    "imagen": "https://picsum.photos/200/300?random=95"
+  },
+  {
+    "artista": "CALAVERA POPULAR",
+    "cod_proy": "CAL005",
+    "album": "Montañero a Lo Moderno",
+    "nombre": "El Vampiro",
+    "categoria": "Álbum",
+    "sayco": "true",
+    "acinpro": "false",
+    "imagen": "https://picsum.photos/200/300?random=96"
+  },
+  {
+    "artista": "CALAVERA POPULAR",
+    "cod_proy": "CAL006",
+    "album": "Montañero a Lo Moderno",
+    "nombre": "Electroconfundida",
+    "categoria": "Álbum",
+    "sayco": "true",
+    "acinpro": "false",
+    "imagen": "https://picsum.photos/200/300?random=97"
+  },
+  {
+    "artista": "CALAVERA POPULAR",
+    "cod_proy": "CAL007",
+    "album": "Montañero a Lo Moderno",
+    "nombre": "Panela al Café",
+    "categoria": "Álbum",
+    "sayco": "true",
+    "acinpro": "false",
+    "imagen": "https://picsum.photos/200/300?random=98"
+  },
+  {
+    "artista": "CALAVERA POPULAR",
+    "cod_proy": "CAL008",
+    "album": "Montañero a Lo Moderno",
+    "nombre": "La Empeliculada",
+    "categoria": "Álbum",
+    "sayco": "true",
+    "acinpro": "false",
+    "imagen": "https://picsum.photos/200/300?random=99"
+  },
+  {
+    "artista": "CALAVERA POPULAR",
+    "cod_proy": "CAL009",
+    "album": "Montañero a Lo Moderno",
+    "nombre": "El Vecino Metalero",
+    "categoria": "Álbum",
+    "sayco": "true",
+    "acinpro": "false",
+    "imagen": "https://picsum.photos/200/300?random=100"
+  },
+  {
+    "artista": "CALAVERA POPULAR",
+    "cod_proy": "CAL010",
+    "album": "Montañero a Lo Moderno",
+    "nombre": "Soñé en el Río",
+    "categoria": "Álbum",
+    "sayco": "true",
+    "acinpro": "false",
+    "imagen": "https://picsum.photos/200/300?random=101"
+  },
+  {
+    "artista": "CALAVERA POPULAR",
+    "cod_proy": "CAL011",
+    "album": "Montañero a Lo Moderno",
+    "nombre": "El Gurre",
+    "categoria": "Álbum",
+    "sayco": "true",
+    "acinpro": "false",
+    "imagen": "https://picsum.photos/200/300?random=102"
+  },
+  {
+    "artista": "SOLO VALENCIA",
+    "cod_proy": "SV001",
+    "album": "Más Liviano que Ayer",
+    "nombre": "Búscame",
+    "categoria": "EP",
+    "sayco": "true",
+    "acinpro": "false",
+    "imagen": "https://picsum.photos/200/300?random=103"
+  },
+  {
+    "artista": "SOLO VALENCIA",
+    "cod_proy": "SV002",
+    "album": "Más Liviano que Ayer",
+    "nombre": "Espuma",
+    "categoria": "EP",
+    "sayco": "true",
+    "acinpro": "false",
+    "imagen": "https://picsum.photos/200/300?random=104"
+  },
+  {
+    "artista": "SOLO VALENCIA",
+    "cod_proy": "SV003",
+    "album": "Más Liviano que Ayer",
+    "nombre": "Más Liviano que Ayer",
+    "categoria": "EP",
+    "sayco": "true",
+    "acinpro": "false",
+    "imagen": "https://picsum.photos/200/300?random=105"
+  },
+  {
+    "artista": "SOLO VALENCIA",
+    "cod_proy": "SV004",
+    "album": "Transoceánico",
+    "nombre": "Transoceánico",
+    "categoria": "EP",
+    "sayco": "true",
+    "acinpro": "false",
+    "imagen": "https://picsum.photos/200/300?random=106"
+  },
+  {
+    "artista": "SOLO VALENCIA",
+    "cod_proy": "SV005",
+    "album": "Transoceánico",
+    "nombre": "Una Pregunta",
+    "categoria": "EP",
+    "sayco": "true",
+    "acinpro": "false",
+    "imagen": "https://picsum.photos/200/300?random=107"
+  },
+  {
+    "artista": "SOLO VALENCIA",
+    "cod_proy": "SV006",
+    "album": "Transoceánico",
+    "nombre": "Hace Falta Enamorarse",
+    "categoria": "EP",
+    "sayco": "true",
+    "acinpro": "false",
+    "imagen": "https://picsum.photos/200/300?random=108"
+  },
+  {
+    "artista": "CAROLINA BLANCO",
+    "cod_proy": "CB001",
+    "album": "Camino hacia algún lado",
+    "nombre": "Intro",
+    "categoria": "EP",
+    "sayco": "true",
+    "acinpro": "false",
+    "imagen": "https://picsum.photos/200/300?random=109"
+  },
+  {
+    "artista": "CAROLINA BLANCO",
+    "cod_proy": "CB002",
+    "album": "Camino hacia algún lado",
+    "nombre": "Si sentir quieres",
+    "categoria": "EP",
+    "sayco": "true",
+    "acinpro": "false",
+    "imagen": "https://picsum.photos/200/300?random=110"
+  },
+  {
+    "artista": "CAROLINA BLANCO",
+    "cod_proy": "CB003",
+    "album": "Camino hacia algún lado",
+    "nombre": "Frenemy",
+    "categoria": "EP",
+    "sayco": "true",
+    "acinpro": "false",
+    "imagen": "https://picsum.photos/200/300?random=111"
+  },
+  {
+    "artista": "CAROLINA BLANCO",
+    "cod_proy": "CB004",
+    "album": "Camino hacia algún lado",
+    "nombre": "Stairaway to nowhere",
+    "categoria": "EP",
+    "sayco": "true",
+    "acinpro": "false",
+    "imagen": "https://picsum.photos/200/300?random=112"
+  },
+  {
+    "artista": "CAROLINA BLANCO",
+    "cod_proy": "CB005",
+    "album": "Camino hacia algún lado",
+    "nombre": "Entregado",
+    "categoria": "EP",
+    "sayco": "true",
+    "acinpro": "false",
+    "imagen": "https://picsum.photos/200/300?random=113"
+  },
+  {
+    "artista": "Ev",
+    "cod_proy": "EV001",
+    "album": "Okay!",
+    "nombre": "Crestas y valles",
+    "categoria": "EP",
+    "sayco": "true",
+    "acinpro": "false",
+    "imagen": "https://picsum.photos/200/300?random=114"
+  },
+  {
+    "artista": "Ev",
+    "cod_proy": "EV002",
+    "album": "Okay!",
+    "nombre": "Canción cursi",
+    "categoria": "EP",
+    "sayco": "true",
+    "acinpro": "false",
+    "imagen": "https://picsum.photos/200/300?random=115"
+  },
+  {
+    "artista": "Ev",
+    "cod_proy": "EV003",
+    "album": "Okay!",
+    "nombre": "3am",
+    "categoria": "EP",
+    "sayco": "true",
+    "acinpro": "false",
+    "imagen": "https://picsum.photos/200/300?random=116"
+  },
+  {
+    "artista": "Ev",
+    "cod_proy": "EV004",
+    "album": "Okay!",
+    "nombre": "Máquina gris",
+    "categoria": "EP",
+    "sayco": "true",
+    "acinpro": "false",
+    "imagen": "https://picsum.photos/200/300?random=117"
+  },
+  {
+    "artista": "Ev",
+    "cod_proy": "EV005",
+    "album": "Okay!",
+    "nombre": "Cosas que probablemente no van apasar",
+    "categoria": "EP",
+    "sayco": "true",
+    "acinpro": "false",
+    "imagen": "https://picsum.photos/200/300?random=118"
+  },
+  {
+    "artista": "Ev",
+    "cod_proy": "EV006",
+    "album": "Okay!",
+    "nombre": "Bien",
+    "categoria": "EP",
+    "sayco": "true",
+    "acinpro": "false",
+    "imagen": "https://picsum.photos/200/300?random=119"
+  }
+]
