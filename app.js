@@ -22,6 +22,11 @@ const fonoRouter = require("./routes/fonoRoutes");
 //JSON
 app.use(express.json());
 
+// Test route.
+app.get("/", (req, res) => {
+  res.send("Falso Ídolo API");
+});
+
 //Security packages.
 app.set("trust proxy", 1);
 app.use(
