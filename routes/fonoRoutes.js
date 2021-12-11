@@ -13,7 +13,7 @@ const {
 
 router.get("/", getAllFono);
 router.get("/single/:id", getOneFono);
-router.get("/artistas", getSomeFono);
+router.get("/artistas/:artista", getSomeFono);
 router.post("/", createFono);
 router.patch("/:id", updateFono);
 router.delete("/single/:id", deleteFono);

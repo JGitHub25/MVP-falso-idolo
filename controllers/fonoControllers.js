@@ -10,7 +10,7 @@ const getAllFono = async (req, res) => {
 
 //GET some.
 const getSomeFono = async (req, res) => {
-  const { artista } = req.body;
+  const { artista } = req.params;
   const fonos = await FonogramaModel.find({ artista });
   res.status(StatusCodes.OK).json({ count: fonos.length, fonos });
 };
