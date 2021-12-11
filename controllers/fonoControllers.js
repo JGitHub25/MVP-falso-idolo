@@ -8,6 +8,13 @@ const getAllFono = async (req, res) => {
   res.status(StatusCodes.OK).json({ count: fonos.length, fonos });
 };
 
+//GET some.
+const getSomeFono = async (req, res) => {
+  const { artista } = req.body;
+  const fonos = await FonogramaModel.find({ artista });
+  res.status(StatusCodes.OK).json({ count: fonos.length, fonos });
+};
+
 //GET one.
 const getOneFono = async (req, res) => {
   const { id: fonoId } = req.params;
@@ -70,6 +77,7 @@ const deleteAll = async (req, res) => {
   const { verif_code } = req.body;
 
   if (verif_code !== "Acepto borrar todos los datos.") {
+    n;
     throw new BadRequestError(
       "Se debe ingresar el texto para autorizar la solicitud."
     );
@@ -83,6 +91,7 @@ const deleteAll = async (req, res) => {
 
 module.exports = {
   getAllFono,
+  getSomeFono,
   getOneFono,
   createFono,
   updateFono,
