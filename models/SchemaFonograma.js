@@ -38,6 +38,10 @@ const SchemaFonograma = new mongoose.Schema(
       type: String,
       required: [true, "Por favor ingrese una imagen."],
     },
+    moods: {
+      type: String,
+      required: [true, "Por favor ingrese un mood para el proyecto."],
+    },
   },
   { timestamps: true }
 );
